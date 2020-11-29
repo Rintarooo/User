@@ -1,7 +1,7 @@
 {
-	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/bluloco-dark.tmTheme",
+	"color_scheme": "Packages/User/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/bluloco-dark.tmTheme",
 	"fold_buttons": true,
-	"font_size": 36,
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": true,
