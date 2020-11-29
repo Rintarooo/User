@@ -6,4 +6,4 @@
 
 * `cd ~/.config/sublime-text-3/Packages/`
 
-* `git clone https://github.com/Rintarooo/sublimeText3_mySettings.git`
+* `git clone https://github.com/Rintarooo/User.git`
