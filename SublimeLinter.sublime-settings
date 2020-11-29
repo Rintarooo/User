@@ -1,0 +1,8 @@
+// SublimeLinter Settings - User
+{
+	 "paths": {
+        "linux": [],
+        "osx": ["/Users/satourintarou/.virtualenvs/v1/bin/python3"],
+        "windows": []
+    }
+}

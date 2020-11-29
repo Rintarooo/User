@@ -1,0 +1,20 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"1337 Color Scheme",
+		"Acme Color Scheme",
+		"Codecs33",
+		"Colorsublime",
+		"ConvertToUTF8",
+		"Package Control",
+		"sublime-text-2-buildview",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Themes Menu Switcher"
+	]
+}

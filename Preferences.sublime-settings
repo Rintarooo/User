@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/bluloco-dark.tmTheme",
+	"fold_buttons": true,
+	"font_size": 36,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"scroll_speed": 1.2,
+	"shell_environment": true,
+	"tab_size": 3,
+	"theme": "Adaptive.sublime-theme"
+}
