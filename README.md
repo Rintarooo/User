@@ -7,3 +7,5 @@
 * `cd ~/.config/sublime-text-3/Packages/`
 
 * `git clone https://github.com/Rintarooo/User.git`
+
+* launch sublime by `subl`
