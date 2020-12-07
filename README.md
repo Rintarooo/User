@@ -2,7 +2,7 @@
 
 ## Reference
 * https://packagecontrol.io/docs/syncing
-* https://qiita.com/mokmokjp/items/14c420ef9664999eb94b(written in Japanese)
+* https://qiita.com/mokmokjp/items/14c420ef9664999eb94b (written in Japanese)
 
 ## Install on Linux
 
