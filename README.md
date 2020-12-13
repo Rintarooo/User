@@ -15,3 +15,5 @@
 * make sure path is `~/.config/sublime-text-3/Packages/User/`
 
 * launch sublime by `$ subl`
+
+* might need to change the compile path in a file in `./my_BuildSystem/`
