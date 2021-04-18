@@ -1,5 +1,11 @@
 # My Sublime text 3 settings
 
+[command]+[shift]+[P]
+brings up the Command Palette
+
+`List Packages` in Command Palette
+see the packages already installed
+
 ## Install on Linux
 
 download Sublime text 3 from [official site](https://www.sublimetext.com/3)
