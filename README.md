@@ -11,6 +11,7 @@ In Command Palette,
 
 * `Package Control: Remove Package` , you can remove the package already installed
 <br>
+
 ## Install on Linux and MacOS
 download Sublime text 4 from [official site](https://www.sublimetext.com/download)
 
