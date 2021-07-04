@@ -1,0 +1,6 @@
+{
+	"auto_completions": true,
+	"show_popup_hints": true,
+	// "rscript_binary": "/Library/Frameworks/R.framework/Versions/4.0/Resources/Rscript"
+	"rscript_binary": "/Library/Frameworks/R.framework/Versions/4.0/Resources/bin/Rscript"
+}

@@ -1,10 +1,10 @@
-# My Sublime text 3 settings
+# My Sublime text settings
 
 ## Install on Linux
 
-download Sublime text 3 from [official site](https://www.sublimetext.com/3)
+download Sublime text 4 from [official site](https://www.sublimetext.com/download)
   
-`$ cd ~/.config/sublime-text-3/Packages/`
+`$ cd ~/.config/sublime-text-4/Packages/`
   
 `$ git clone https://github.com/Rintarooo/User.git`
   
@@ -19,7 +19,7 @@ might need to change the compile path in a file in `./my_BuildSystem/`
   
 launch sublime by `$ subl`
   
-if this command doesn't work, create a symbolic link `$ ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl`
+if this command doesn't work, create a symbolic link `$ sudo ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl`
   
 make sure PATH includes `/usr/local/bin/` by using `echo $PATH`
 

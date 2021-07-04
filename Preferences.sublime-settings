@@ -1,16 +1,16 @@
 {
-	"color_scheme": "Packages/User/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/bluloco-dark.tmTheme",
+	"color_scheme": "Packages/User/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/candy-crush.tmTheme",
 	"fold_buttons": true,
-	"font_size": 24,
+	"font_size": 36,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
 	],
-	"scroll_speed": 1.2,
+	"scroll_speed": 2.0,
 	"shell_environment": true,
 	"tab_size": 3,
-	"theme": "Adaptive.sublime-theme"
+	"theme": "Adaptive.sublime-theme",
 }

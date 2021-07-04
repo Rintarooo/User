@@ -8,13 +8,18 @@
 		"10% Too Dull for My Tastes Color Scheme",
 		"1337 Color Scheme",
 		"Acme Color Scheme",
+		"Buildview",
+		"CMake",
 		"Codecs33",
 		"Colorsublime",
 		"ConvertToUTF8",
+		"CUDA C++",
+		"LaTeXTools",
 		"Package Control",
-		"sublime-text-2-buildview",
+		"R-Box",
+		"SendCode",
 		"SublimeLinter",
 		"SublimeREPL",
-		"Themes Menu Switcher"
-	]
+		"Themes Menu Switcher",
+	],
 }
