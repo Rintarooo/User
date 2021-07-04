@@ -1,5 +1,11 @@
 # My Sublime text settings
 
+[command]+[shift]+[P]
+brings up the Command Palette
+
+`List Packages` in Command Palette
+see the packages already installed
+
 ## Install on Linux
 
 download Sublime text 4 from [official site](https://www.sublimetext.com/download)
