@@ -4,16 +4,19 @@
 brings up the Command Palette
 
 In Command Palette, 
-`Package Control: List Packages`, you can see the packages already installed
 
-`Package Control: Install Package` , you can install the package
+* `Package Control: List Packages`, you can see the packages already installed
 
-`Package Control: Remove Package` , you can remove the package already installed
+* `Package Control: Install Package` , you can install the package
 
+* `Package Control: Remove Package` , you can remove the package already installed
+<br>
 ## Install on Linux and MacOS
 download Sublime text 4 from [official site](https://www.sublimetext.com/download)
 
 ## Set up
+<br>
+
 ### Linux
   
 `$ cd ~/.config/sublime-text-4/Packages/`
@@ -47,6 +50,7 @@ recommended color scheme
 [command]+[shift]+[P] -> UI: Select Color Scheme
 * candy crush
 
+<br>
 
 ## Reference
 * https://packagecontrol.io/docs/syncing
